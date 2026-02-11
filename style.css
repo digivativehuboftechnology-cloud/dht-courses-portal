@@ -668,7 +668,11 @@ nav a:hover:after {
     justify-content: center;
     color: var(--gray);
     text-align: center;
+    background-image: url('your-image-url.jpg'); /* Replace with your image URL */
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
 }
+
 
 .map-placeholder i {
     font-size: 5rem;
