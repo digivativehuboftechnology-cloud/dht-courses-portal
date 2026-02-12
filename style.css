@@ -232,7 +232,8 @@ nav a:hover:after {
 
 /* Hero Section - Transparent background to show body bg */
 .hero {
-    background: rgba(15, 23, 42, 0.8);
+    background: rgba(15, 23, 42, 0.8) url('Slide.jpeg') no-repeat center center;
+    background-size: cover;
     backdrop-filter: blur(5px);
     color: white;
     padding: 8rem 0 6rem;
