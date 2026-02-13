@@ -136,20 +136,12 @@ a {
     transform: translateY(-2px);
 }
 
-.container {
-    display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center;     /* Center vertically */
-    height: 100vh;           /* Full viewport height */
-  }
-
   .btn-full {
     background: var(--accent-gradient);
     width: 60%;  /* Adjust width as needed */
     padding: 10px 20px;
     text-align: center; /* Ensure text inside button is centered */
   }
-
 
 /* Header Styles */
 header {
