@@ -139,7 +139,7 @@ a {
 .btn-full {
     background: var(--accent-gradient);
     width: 60%;
-    align: center;
+    text-align: center;
 }
 
 /* Header Styles */
