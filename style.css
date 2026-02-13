@@ -138,6 +138,7 @@ a {
 
 .btn-full {
     width: 100%;
+    background: var(--accent-gradient);
 }
 
 /* Header Styles */
