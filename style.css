@@ -138,11 +138,9 @@ a {
 
   .btn-full {
     background: var(--accent-gradient);
-    width: 60%;  /* Adjust width as needed */
-    padding: 10px 20px;
-    text-align: center; /* Ensure text inside button is centered */
-  }
-
+    width: 80%;
+    text-align: center;
+}
 /* Header Styles */
 header {
     background: rgba(15, 23, 42, 0.9);
