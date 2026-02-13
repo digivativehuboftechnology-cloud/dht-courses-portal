@@ -140,6 +140,7 @@ a {
     background: var(--accent-gradient);
     width: 80%;
     text-align: center;
+    align: center;
 }
 /* Header Styles */
 header {
